@@ -1,0 +1,11 @@
+H:\College\C#\JobTask\JobTask\JobTask\bin\Debug\JobTask.exe.config
+H:\College\C#\JobTask\JobTask\JobTask\bin\Debug\JobTask.exe
+H:\College\C#\JobTask\JobTask\JobTask\bin\Debug\JobTask.pdb
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.csproj.AssemblyReference.cache
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.csproj.SuggestedBindingRedirects.cache
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.Form1.resources
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.Properties.Resources.resources
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.csproj.GenerateResource.cache
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.csproj.CoreCompileInputs.cache
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.exe
+H:\College\C#\JobTask\JobTask\JobTask\obj\Debug\JobTask.pdb
